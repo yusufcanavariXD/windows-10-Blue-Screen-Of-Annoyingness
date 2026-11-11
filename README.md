@@ -3,3 +3,5 @@ please don't hate on me i will learn coding but i know some though like python? 
 
 <img width="1365" height="745" alt="image" src="https://github.com/user-attachments/assets/887de35d-8865-4022-81a1-ce824441174d" />
 This is a Screenshot of the game. if you wanted it!
+
+This is First Release Image Though. read the releases desc or read here. this game is so boring right now but maybe i would add some things like money and shop.
