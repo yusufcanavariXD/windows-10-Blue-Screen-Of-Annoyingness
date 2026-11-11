@@ -5,3 +5,5 @@ please don't hate on me i will learn coding but i know some though like python? 
 This is a Screenshot of the game. if you wanted it!
 
 This is First Release Image Though. read the releases desc or read here. this game is so boring right now but maybe i would add some things like money and shop.
+
+This is the Github One. if you wanna see the itch.io one, you can visit https://yusufcanavari.itch.io/windows-10-blue-screen-of-annoyingness it has playable html version.
